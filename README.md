@@ -33,5 +33,16 @@ A custom-built graphics engine developed in C++ using DirectX 11. This engine sh
 - **Tools:** Visual Studio, HLSL  
 - **Project Duration:** ~8 weeks
 
-## 📂 Project Structure
+
+## 🧠 What I Learned
+
+This project deepened my understanding of real-time rendering, system architecture, and editor tooling. Implementing a full deferred rendering pipeline and building custom systems from the ground up was a highly rewarding experience.
+
+## 📈 Future Improvements
+
+- Add support for shadow mapping in the G-buffer
+- Implement skeletal animation and terrain generation
+- Add real-time light creation and visual indicators
+
+---
 
