@@ -1,0 +1,16 @@
+﻿  main.cpp
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\structures.h(63,1): warning C4005: 'MAX_LIGHTS': macro redefinition
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\LightComponent.h(10,1): message : see previous definition of 'MAX_LIGHTS'
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(986,25): warning C4189: 'cameraAnimComp': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1012,29): warning C4189: 'animComp': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1005,35): warning C4189: 'textureComp': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1115,11): warning C4189: 'movement': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1449,29): warning C4189: 'cube2AnimComp': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1445,24): warning C4189: 'cube2MeshComp': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1447,35): warning C4189: 'cube2TextureComp': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1503,29): warning C4189: 'planeAnimComp': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1838,25): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1878,34): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1849,35): warning C4189: 'entityTextureComp': local variable is initialized but not referenced
+C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\FrameworkDX11\main.cpp(1850,29): warning C4189: 'entityAnimComp': local variable is initialized but not referenced
+  FrameworkDX11.vcxproj -> C:\Users\offic\Desktop\University\ADVANCED-REAL-TIME-GRAPHICS\project\x64\Debug\FrameworkDX11.exe
