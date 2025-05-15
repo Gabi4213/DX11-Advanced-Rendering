@@ -31,7 +31,6 @@ A custom-built graphics engine developed in C++ using DirectX 11. This engine sh
 - **Language:** C++  
 - **Graphics API:** DirectX 11  
 - **Tools:** Visual Studio, HLSL  
-- **Project Duration:** ~8 weeks
 
 
 ## 🧠 What I Learned
